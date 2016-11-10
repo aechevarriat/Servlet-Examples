@@ -90,7 +90,7 @@ public class HelloServlet extends HttpServlet {
 
     public void destroy()
     {
-        System.out.println("adiós!!!");
+        System.out.println("chao!!!");
     }
 
 
